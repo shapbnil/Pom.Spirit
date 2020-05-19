@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57181" started-at="2020-04-07T11:15:42 CDT" finished-at="2020-04-07T11:16:40 CDT">
+  <suite name="Default suite" duration-ms="78061" started-at="2020-05-18T22:49:41 CDT" finished-at="2020-05-18T22:50:59 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57181" started-at="2020-04-07T11:15:42 CDT" finished-at="2020-04-07T11:16:40 CDT">
+    <test name="Default test" duration-ms="78061" started-at="2020-05-18T22:49:41 CDT" finished-at="2020-05-18T22:50:59 CDT">
       <class name="testCase.SpiritTest">
-        <test-method status="PASS" signature="mPage()[pri:0, instance:testCase.SpiritTest@a7e666]" name="mPage" duration-ms="57058" started-at="2020-04-07T11:15:42 CDT" finished-at="2020-04-07T11:16:40 CDT">
+        <test-method status="PASS" signature="mPage()[pri:0, instance:testCase.SpiritTest@a7e666]" name="mPage" duration-ms="77758" started-at="2020-05-18T22:49:41 CDT" finished-at="2020-05-18T22:50:59 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mPage -->
